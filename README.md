@@ -6,4 +6,5 @@ Sistema web en php con base de datos que resgistre productos (nombre, precio e i
 
 ## Licencia 📄
 MIT Public License
+
 No puede usarse comercialmente.
